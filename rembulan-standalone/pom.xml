@@ -35,8 +35,8 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git://github.com/mjanicek/rembulan.git</connection>
-    <url>https://github.com/mjanicek/rembulan/tree/master</url>
+    <connection>scm:git:git://github.com/JuKu/rembulan.git</connection>
+    <url>https://github.com/JuKu/rembulan/tree/master</url>
   </scm>
 
   <dependencies>

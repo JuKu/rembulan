@@ -87,7 +87,7 @@ Maven will pull in the remaining dependencies as part of the build process.
 To fetch the latest code on the `master` branch and build it, run
 
 ```sh
-git clone https://github.com/mjanicek/rembulan.git
+git clone https://github.com/JuKu/rembulan.git
 cd rembulan    
 mvn install
 ```

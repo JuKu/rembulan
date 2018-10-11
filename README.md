@@ -4,6 +4,8 @@
 
 (*Rembulan* is Javanese/Indonesian for *Moon*.)
 
+This is only a **fork** from the original project [https://github.com/mjanicek/rembulan](https://github.com/mjanicek/rembulan).\
+I have solved all build errors and deployed this artifact to maven central, so anyone can use it.
 
 ## About
 
@@ -26,6 +28,16 @@ Manual, please [open a new issue](https://github.com/mjanicek/rembulan/issues).
 
 See also the [completeness table](doc/CompletenessTable.md) that maps out the current
 completeness status of Rembulan with regard to PUC-Lua, in particular the standard library.
+
+## Maven Coordinates
+
+```xml
+<dependency>
+    <groupId>com.jukusoft</groupId>
+    <artifactId>rembulan</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
 
 ## Frequently asked questions (FAQ)
 

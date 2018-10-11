@@ -15,13 +15,13 @@
 
   <groupId>com.jukusoft</groupId>
   <artifactId>rembulan-parent</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Rembulan parent POM</name>
   <description>The parent POM for Rembulan modules</description>
-  <url>https://github.com/mjanicek/rembulan/</url>
-  <inceptionYear>2016</inceptionYear>
+  <url>https://github.com/JuKu/rembulan</url>
+  <inceptionYear>2018</inceptionYear>
 
   <licenses>
     <license>

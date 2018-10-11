@@ -31,11 +31,33 @@ completeness status of Rembulan with regard to PUC-Lua, in particular the standa
 
 ## Maven Coordinates
 
+To include the **runtime** as a dependency:
+
 ```xml
 <dependency>
-    <groupId>com.jukusoft</groupId>
-    <artifactId>rembulan</artifactId>
-    <version>1.0.0</version>
+  <groupId>com.jukusoft</groupId>
+  <artifactId>rembulan-runtime</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
+
+To include the **compiler** as a dependency:
+
+```xml
+<dependency>
+  <groupId>com.jukusoft</groupId>
+  <artifactId>rembulan-compiler</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
+
+To include the **standard library** as a dependency:
+
+```xml
+<dependency>
+  <groupId>com.jukusoft</groupId>
+  <artifactId>rembulan-stdlib</artifactId>
+  <version>1.0.0</version>
 </dependency>
 ```
 

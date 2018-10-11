@@ -7,9 +7,8 @@
 
   <parent>
     <groupId>com.jukusoft</groupId>
-    <artifactId>rembulan-parent</artifactId>
+    <artifactId>rembulan</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <relativePath>../rembulan-parent</relativePath>
   </parent>
 
   <artifactId>rembulan-tests</artifactId>
@@ -111,12 +110,13 @@
         <plugin>
           <groupId>net.alchim31.maven</groupId>
           <artifactId>scala-maven-plugin</artifactId>
-          <version>3.1.6</version>
+          <version>3.4.2</version>
         </plugin>
+
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-compiler-plugin</artifactId>
-          <version>3.1</version>
+          <version>3.8.0</version>
         </plugin>
       </plugins>
     </pluginManagement>
@@ -135,7 +135,7 @@
       <plugin>
         <groupId>net.alchim31.maven</groupId>
         <artifactId>scala-maven-plugin</artifactId>
-        <version>3.2.2</version>
+        <version>3.4.2</version>
 <!--
         <configuration>
           <recompileMode>incremental</recompileMode>

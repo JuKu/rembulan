@@ -7,9 +7,8 @@
 
   <parent>
     <groupId>com.jukusoft</groupId>
-    <artifactId>rembulan-parent</artifactId>
+    <artifactId>rembulan</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <relativePath>../rembulan-parent</relativePath>
   </parent>
 
   <artifactId>rembulan-stdlib</artifactId>

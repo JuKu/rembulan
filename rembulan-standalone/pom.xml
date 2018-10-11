@@ -8,12 +8,11 @@
   <parent>
     <groupId>com.jukusoft</groupId>
     <artifactId>rembulan</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
   </parent>
 
   <artifactId>rembulan-standalone</artifactId>
-  <version>1.0.0</version>
-  <packaging>jar</packaging>
+  <version>1.0.1</version>
 
   <name>Rembulan Standalone</name>
   <description>Drop-in replacement for the standalone PUC-Lua interpreter</description>
@@ -43,25 +42,25 @@
     <dependency>
       <groupId>com.jukusoft</groupId>
       <artifactId>rembulan-runtime</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.1</version>
     </dependency>
 
     <dependency>
       <groupId>com.jukusoft</groupId>
       <artifactId>rembulan-compiler</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.1</version>
     </dependency>
 
     <dependency>
       <groupId>com.jukusoft</groupId>
       <artifactId>rembulan-stdlib</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.1</version>
     </dependency>
 
     <dependency>
       <groupId>com.jukusoft</groupId>
       <artifactId>rembulan-luajava-compat</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.1</version>
     </dependency>
 
     <dependency>

@@ -8,12 +8,11 @@
   <parent>
     <groupId>com.jukusoft</groupId>
     <artifactId>rembulan</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
   </parent>
 
   <artifactId>rembulan-compiler</artifactId>
-  <version>1.0.0</version>
-  <packaging>jar</packaging>
+  <version>1.0.1</version>
 
   <properties>
     <!-- deploy this module -->
@@ -50,7 +49,7 @@
     <dependency>
       <groupId>com.jukusoft</groupId>
       <artifactId>rembulan-runtime</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.1</version>
     </dependency>
 
     <dependency>

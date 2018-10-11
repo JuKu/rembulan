@@ -5,7 +5,7 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>net.sandius.rembulan</groupId>
+  <groupId>com.jukusoft</groupId>
   <artifactId>rembulan</artifactId>
   <version>0.1-SNAPSHOT</version>
   <packaging>pom</packaging>

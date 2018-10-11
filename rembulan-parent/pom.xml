@@ -13,7 +13,7 @@
   </parent>
 -->
 
-  <groupId>net.sandius.rembulan</groupId>
+  <groupId>com.jukusoft</groupId>
   <artifactId>rembulan-parent</artifactId>
   <version>0.1-SNAPSHOT</version>
   <packaging>pom</packaging>

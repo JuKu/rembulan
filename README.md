@@ -131,7 +131,7 @@ To include the **runtime** as a dependency:
 
 ```xml
 <dependency>
-  <groupId>net.sandius.rembulan</groupId>
+  <groupId>com.jukusoft</groupId>
   <artifactId>rembulan-runtime</artifactId>
   <version>0.1-SNAPSHOT</version>
 </dependency>
@@ -141,7 +141,7 @@ To include the **compiler** as a dependency:
 
 ```xml
 <dependency>
-  <groupId>net.sandius.rembulan</groupId>
+  <groupId>com.jukusoft</groupId>
   <artifactId>rembulan-compiler</artifactId>
   <version>0.1-SNAPSHOT</version>
 </dependency>
@@ -151,7 +151,7 @@ To include the **standard library** as a dependency:
 
 ```xml
 <dependency>
-  <groupId>net.sandius.rembulan</groupId>
+  <groupId>com.jukusoft</groupId>
   <artifactId>rembulan-stdlib</artifactId>
   <version>0.1-SNAPSHOT</version>
 </dependency>

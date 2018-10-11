@@ -6,7 +6,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>net.sandius.rembulan</groupId>
+    <groupId>com.jukusoft</groupId>
     <artifactId>rembulan-parent</artifactId>
     <version>0.1-SNAPSHOT</version>
     <relativePath>../rembulan-parent</relativePath>
@@ -42,25 +42,25 @@
   <dependencies>
 
     <dependency>
-      <groupId>net.sandius.rembulan</groupId>
+      <groupId>com.jukusoft</groupId>
       <artifactId>rembulan-runtime</artifactId>
       <version>${project.parent.version}</version>
     </dependency>
 
     <dependency>
-      <groupId>net.sandius.rembulan</groupId>
+      <groupId>com.jukusoft</groupId>
       <artifactId>rembulan-compiler</artifactId>
       <version>${project.parent.version}</version>
     </dependency>
 
     <dependency>
-      <groupId>net.sandius.rembulan</groupId>
+      <groupId>com.jukusoft</groupId>
       <artifactId>rembulan-stdlib</artifactId>
       <version>${project.parent.version}</version>
     </dependency>
 
     <dependency>
-      <groupId>net.sandius.rembulan</groupId>
+      <groupId>com.jukusoft</groupId>
       <artifactId>rembulan-luajava-compat</artifactId>
       <version>${project.parent.version}</version>
     </dependency>

@@ -13,6 +13,9 @@
   <properties>
     <scale.plugin.version>3.4.2</scale.plugin.version>
 
+	  <!-- don't deploy modules by default -->
+	  <maven.deploy.skip>true</maven.deploy.skip>
+
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <encoding>UTF-8</encoding>
@@ -23,18 +26,21 @@
   <url>https://github.com/mjanicek/rembulan/</url>
   <inceptionYear>2016</inceptionYear>
 
-  <licenses>
-    <license>
-      <name>The Apache License, Version 2.0</name>
-      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-    </license>
-  </licenses>
+	  <licenses>
+			<license>
+			  	<name>The Apache License, Version 2.0</name>
+			  	<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			</license>
+	  </licenses>
 
-  <developers>
-    <developer>
-      <name>Miroslav Janíček</name>
-    </developer>
-  </developers>
+	  <developers>
+			<developer>
+			  <name>Miroslav Janíček</name>
+			</developer>
+		  <developer>
+			  <name>JuKu</name>
+		  </developer>
+	  </developers>
 
   <scm>
     <connection>scm:git:git://github.com/JuKu/rembulan.git</connection>

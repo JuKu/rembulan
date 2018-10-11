@@ -123,15 +123,6 @@
 
     <plugins>
 
-      <!-- Don't deploy this module -->
-      <plugin>
-        <groupId>org.sonatype.plugins</groupId>
-        <artifactId>nexus-staging-maven-plugin</artifactId>
-        <configuration>
-          <skipNexusStagingDeployMojo>true</skipNexusStagingDeployMojo>
-        </configuration>
-      </plugin>
-
       <!-- <plugin>
         <groupId>net.alchim31.maven</groupId>
         <artifactId>scala-maven-plugin</artifactId>

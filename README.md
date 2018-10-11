@@ -31,7 +31,7 @@ completeness status of Rembulan with regard to PUC-Lua, in particular the standa
 
 ## Maven Coordinates
 
-To include the **runtime** as a dependency:
+To include the **runtime** as a dependency (also required for compiler):
 
 ```xml
 <dependency>

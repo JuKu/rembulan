@@ -13,7 +13,7 @@
   </parent>
 
   <artifactId>rembulan-runtime</artifactId>
-  <version>${project.parent.version}</version>
+  <version>1.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Rembulan Runtime</name>

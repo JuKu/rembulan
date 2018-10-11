@@ -16,7 +16,7 @@
 
   <properties>
     <!-- deploy this module -->
-    <maven.deploy.skip>false</maven.deploy.skip>
+    <!-- <maven.deploy.skip>false</maven.deploy.skip> -->
   </properties>
 
   <name>Rembulan LuaJava compatibility library</name>

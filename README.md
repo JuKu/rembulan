@@ -133,7 +133,7 @@ To include the **runtime** as a dependency:
 <dependency>
   <groupId>com.jukusoft</groupId>
   <artifactId>rembulan-runtime</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 </dependency>
 ```
 
@@ -143,7 +143,7 @@ To include the **compiler** as a dependency:
 <dependency>
   <groupId>com.jukusoft</groupId>
   <artifactId>rembulan-compiler</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 </dependency>
 ```
 
@@ -153,7 +153,7 @@ To include the **standard library** as a dependency:
 <dependency>
   <groupId>com.jukusoft</groupId>
   <artifactId>rembulan-stdlib</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 </dependency>
 ```
 

@@ -5,7 +5,7 @@
 (*Rembulan* is Javanese/Indonesian for *Moon*.)
 
 This is only a **fork** from the original project [https://github.com/mjanicek/rembulan](https://github.com/mjanicek/rembulan).\
-I have solved all build errors and deployed this artifact to maven central, so anyone can use it.
+I have solved all build errors and deployed this artifacts to maven central, so anyone can use it.
 
 ## About
 

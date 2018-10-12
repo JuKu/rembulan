@@ -59,7 +59,7 @@
 
     <module>rembulan-luajava-compat</module>
 
-    <!-- <module>rembulan-tests</module> -->
+    <module>rembulan-tests</module>
     <module>rembulan-examples</module>
 
     <!-- the last module must be deployed -->

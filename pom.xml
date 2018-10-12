@@ -13,8 +13,8 @@
   <properties>
     <scale.plugin.version>3.4.2</scale.plugin.version>
 
-	  <!-- don't deploy modules by default -->
-	  <maven.deploy.skip>true</maven.deploy.skip>
+	  <!-- deploy modules by default -->
+	  <maven.deploy.skip>false</maven.deploy.skip>
 
     <encoding>UTF-8</encoding>
 

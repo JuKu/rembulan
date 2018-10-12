@@ -17,6 +17,9 @@
   <properties>
     <!-- don't deploy modules by default -->
     <maven.deploy.skip>true</maven.deploy.skip>
+
+    <scala.binary.version>2.11</scala.binary.version>
+    <scala.version>${scala.binary.version}.0</scala.version>
   </properties>
 
   <name>Rembulan tests</name>
@@ -41,11 +44,6 @@
     <connection>scm:git:git://github.com/JuKu/rembulan.git</connection>
     <url>https://github.com/JuKu/rembulan/tree/master</url>
   </scm>
-
-  <properties>
-    <scala.binary.version>2.11</scala.binary.version>
-    <scala.version>${scala.binary.version}.0</scala.version>
-  </properties>
 
   <dependencies>
 

@@ -7,7 +7,7 @@
 
 	<groupId>com.jukusoft</groupId>
 	<artifactId>rembulan-parent</artifactId>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<packaging>pom</packaging>
 
   <properties>
@@ -59,7 +59,7 @@
 
     <module>rembulan-luajava-compat</module>
 
-    <module>rembulan-tests</module>
+    <!-- <module>rembulan-tests</module> -->
     <module>rembulan-examples</module>
 
     <!-- the last module must be deployed -->
